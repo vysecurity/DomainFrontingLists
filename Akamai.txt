@@ -1924,7 +1924,6 @@ m.chevrolet.co.in
 m.chevrolet.co.kr
 m.chevrolet.com
 m.chevrolet.com.ar
-m.chevrolet.com.br
 m.chevrolet.com.co
 m.chevrolet.com.ec
 m.chevrolet.com.mx
@@ -5745,7 +5744,6 @@ www.chevrolet.co.in
 www.chevrolet.co.kr
 www.chevrolet.com
 www.chevrolet.com.ar
-www.chevrolet.com.br
 www.chevrolet.com.co
 www.chevrolet.com.ec
 www.chevrolet.com.mx
